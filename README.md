@@ -6,7 +6,7 @@ Download the script [here](https://www.roblox.com/library/5823200713/LinkedList)
 
 ### API
 ```lua
-Constructs a new linked list given a table of data
+-- Constructs a new linked list given a table of data
 LinkedList.new(dataTable)
 
 -- Removes node with given data
